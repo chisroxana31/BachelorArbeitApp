@@ -16,9 +16,7 @@ The **Regression Models Dashboard** is an intuitive and interactive web applicat
 - **CSV Upload Support**  
   Users can upload custom datasets (CSV format, up to 200MB) to build and analyze models on their own data.
 <img width="1842" height="723" alt="Screenshot 2025-06-07 005338" src="https://github.com/user-attachments/assets/0f150621-a849-450f-a7ff-b84e83016f7e" />
-<img width="339" height="306" alt="Screenshot 2025-06-07 005226" src="https://github.com/user-attachments/assets/30b5c9c5-117a-4993-9be5-41067a0a7f1e" />
-<img width="1817" height="610" alt="Screenshot 2025-06-07 005219" src="https://github.com/user-attachments/assets/654c3b0d-a2fb-4e37-9bc9-bdef0d09f4b3" />
-<img width="1814" height="335" alt="Screenshot 2025-06-07 005625" src="https://github.com/user-attachments/assets/9b253a6c-7a06-4537-9561-f0c4fbf3f1c3" />
+
 
 - **Dynamic Variable Selection**  
   - Easily select the dependent (target) and independent (predictor) variables from your dataset.
@@ -47,6 +45,8 @@ The **Regression Models Dashboard** is an intuitive and interactive web applicat
   - Download prediction logs for external analysis.
 
 ---
+<img width="339" height="306" alt="Screenshot 2025-06-07 005226" src="https://github.com/user-attachments/assets/30b5c9c5-117a-4993-9be5-41067a0a7f1e" />
+
 
 ## Educational Focus
 
@@ -83,6 +83,9 @@ This tool is especially valuable in academic and training settings. It helps use
    Download summaries and logs for record-keeping or further analysis.
 
 ---
+
+<img width="1817" height="610" alt="Screenshot 2025-06-07 005219" src="https://github.com/user-attachments/assets/654c3b0d-a2fb-4e37-9bc9-bdef0d09f4b3" />
+<img width="1814" height="335" alt="Screenshot 2025-06-07 005625" src="https://github.com/user-attachments/assets/9b253a6c-7a06-4537-9561-f0c4fbf3f1c3" />
 
 ## Technical Notes
 
